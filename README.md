@@ -7,6 +7,8 @@
 
 A comprehensive list of many acronyms concerning the world of technology. This project was created to help those who study or work in technology better navigate the thousands of acronyms used every day.
 
+📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
+
 | Abbreviation     | Full Form                          |
 |------------------|------------------------------------|
 | **AI**           | Artificial Intelligence            |
