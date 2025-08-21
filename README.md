@@ -9,6 +9,9 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
 | Abbreviation     | Full Form                          |
 |------------------|------------------------------------|
 | **AI**           | Artificial Intelligence            |
