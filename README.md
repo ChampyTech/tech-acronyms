@@ -52,7 +52,7 @@ Want to add an acronym or found an error? Open a pull request or an issue!
 
 ## ⚠️ Disclaimer
 
-This repository is for informational and educational purposes only. While we strive to provide accurate and up-to-date definitions, some acronyms may have multiple meanings or vary depending on context. We do not guarantee completeness or correctness. Use this content at your own discretion.
+By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any organizations, standards bodies, companies, or individuals who created, maintain, or hold trademarks for the acronyms and terms mentioned. Although attempts are made to ensure the definitions and explanations are accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the information provided. Technology terminology, acronym meanings, industry standards, and technical definitions evolve continuously and are outside the control of this project. Users reference and apply this information at their own risk and discretion. The author of this repository does not assume responsibility for any issues, damages, or consequences that may arise from relying on any of the definitions or explanations provided, including but not limited to miscommunication in professional settings, incorrect technical implementations, misunderstanding of standards or protocols, project failures, or academic or professional errors. Always verify definitions through official documentation, consult authoritative sources, cross-reference multiple reliable resources, and seek expert guidance when making critical technical decisions based on acronym interpretations.
 
 ## 🎫 License
 
