@@ -49,6 +49,10 @@ Want to add an acronym or found an error? Open a pull request or an issue!
 
 This repository is for informational and educational purposes only. While we strive to provide accurate and up-to-date definitions, some acronyms may have multiple meanings or vary depending on context. We do not guarantee completeness or correctness. Use this content at your own discretion.
 
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
 ## 📄 Credits
 
 - [Computer Related Terms Abbreviations - Unacademy](https://unacademy.com/content/bank-exam/study-material/computer-knowledge/computer-related-terms-abbreviations/)
