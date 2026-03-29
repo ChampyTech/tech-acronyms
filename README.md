@@ -54,10 +54,79 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 | **AV** | Antivirus                                          |
 | **AWS** | Amazon Web Services                                |
 | **AZ** | Availability Zone                                  |
-| **BSOD**         | Blue Screen of Death               |
-| **CD**           | Compact Disc                       |
-| **CPU**          | Central Processing Unit            |
-| **CSS**          | Cascading Style Sheets             |
+| **B2B** | Business-to-Business                               |
+| **B2C** | Business-to-Consumer                               |
+| **BaaS** | Backend as a Service                               |
+| **BASIC** | Beginner's All-purpose Symbolic Instruction Code   |
+| **BBS** | Bulletin Board System                              |
+| **BCD** | Binary Coded Decimal                               |
+| **BCP** | Business Continuity Planning                       |
+| **BER** | Bit Error Rate                                     |
+| **BGP** | Border Gateway Protocol                            |
+| **BI** | Business Intelligence                              |
+| **BIOS** | Basic Input/Output System                          |
+| **BIPS** | Billion Instructions Per Second                    |
+| **BLOB** | Binary Large Object                                |
+| **BMP** | Bitmap                                             |
+| **BOM** | Byte Order Mark                                    |
+| **BPS** | Bits Per Second                                    |
+| **BRD** | Business Requirements Document                     |
+| **BSOD** | Blue Screen of Death                               |
+| **BSON** | Binary JSON                                        |
+| **BT** | Bluetooth                                          |
+| **BYOD** | Bring Your Own Device                              |
+| **CAD** | Computer-Aided Design                               |
+| **CAE** | Computer-Aided Engineering                          |
+| **CAM** | Computer-Aided Manufacturing                         |
+| **CAP** | Consistency, Availability, Partition tolerance      |
+| **CAPEX** | Capital Expenditure                                 |
+| **CAPTCHA** | Completely Automated Public Turing test to tell Computers and Humans Apart |
+| **CAS** | Central Authentication Service                      |
+| **CASE** | Computer-Aided Software Engineering                 |
+| **CAT** | Category (e.g., Cat5, Cat6 cables)                  |
+| **CBR** | Constant Bit Rate                                   |
+| **CBT** | Computer-Based Training                             |
+| **CCD** | Charge-Coupled Device                               |
+| **CCNA** | Cisco Certified Network Associate                    |
+| **CCTV** | Closed-Circuit Television                           |
+| **CD** | Compact Disc                                        |
+| **CDN** | Content Delivery Network                             |
+| **CDP** | Continuous Data Protection                          |
+| **CERT** | Computer Emergency Response Team                    |
+| **CGI** | Common Gateway Interface / Computer-Generated Imagery|
+| **CIA** | Confidentiality, Integrity, and Availability (Triad)|
+| **CI/CD** | Continuous Integration / Continuous Deployment      |
+| **CIDR** | Classless Inter-Domain Routing                      |
+| **CIO** | Chief Information Officer                           |
+| **CISC** | Complex Instruction Set Computer                    |
+| **CLI** | Command Line Interface                              |
+| **CLR** | Common Language Runtime                             |
+| **CMOS** | Complementary Metal-Oxide-Semiconductor             |
+| **CMS** | Content Management System                           |
+| **CNAME** | Canonical Name                                      |
+| **CNN** | Convolutional Neural Network                        |
+| **COBOL** | Common Business-Oriented Language                   |
+| **CORS** | Cross-Origin Resource Sharing                       |
+| **COTS** | Commercial Off-the-Shelf                            |
+| **CPU** | Central Processing Unit                             |
+| **CR** | Carriage Return                                     |
+| **CRC** | Cyclic Redundancy Check                             |
+| **CRM** | Customer Relationship Management                    |
+| **CRU** | Customer Replaceable Unit                           |
+| **CRT** | Cathode Ray Tube                                    |
+| **CRUD** | Create, Read, Update, Delete                        |
+| **CSA** | Cloud Security Alliance                             |
+| **CSIRT** | Computer Security Incident Response Team            |
+| **CSMA/CD** | Carrier Sense Multiple Access with Collision Detection|
+| **CSP** | Cloud Service Provider / Content Security Policy    |
+| **CSR** | Certificate Signing Request / Client-Side Rendering |
+| **CSRF** | Cross-Site Request Forgery                          |
+| **CSS** | Cascading Style Sheets                              |
+| **CSV** | Comma-Separated Values                              |
+| **CTE** | Common Table Expression                             |
+| **CTO** | Chief Technology Officer                            |
+| **CV** | Computer Vision                                     |
+| **CVE** | Common Vulnerabilities and Exposures                |
 | **DVD**          | Digital Versatile Disc             |
 | **EOD**          | Explosive Ordnance Disposal        |
 | **GPS**          | Global Positioning System          |
