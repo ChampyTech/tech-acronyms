@@ -14,8 +14,46 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 
 | Abbreviation     | Full Form                          |
 |------------------|------------------------------------|
-| **AI**           | Artificial Intelligence            |
-| **API**          | Application Programming Interface  |
+| **AA** | Anti-Aliasing                                      |
+| **AAA** | Authentication, Authorization, and Accounting      |
+| **AaaS** | Analytics as a Service                             |
+| **ACID** | Atomicity, Consistency, Isolation, Durability      |
+| **ACL** | Access Control List                                |
+| **AD** | Active Directory                                   |
+| **ADB** | Android Debug Bridge                               |
+| **ADSL** | Asymmetric Digital Subscriber Line                 |
+| **AES** | Advanced Encryption Standard                       |
+| **AGI** | Artificial General Intelligence                    |
+| **AGP** | Accelerated Graphics Port                          |
+| **AI** | Artificial Intelligence                            |
+| **AIO** | All-In-One                                         |
+| **AIOps** | Artificial Intelligence for IT Operations          |
+| **AJAX** | Asynchronous JavaScript and XML                   |
+| **ALU** | Arithmetic Logic Unit                              |
+| **AM** | Additive Manufacturing                             |
+| **AMI** | Amazon Machine Image                               |
+| **ANN** | Artificial Neural Network                          |
+| **ANSI** | American National Standards Institute              |
+| **AOP** | Aspect-Oriented Programming                       |
+| **API** | Application Programming Interface                  |
+| **APK** | Android Package Kit                                |
+| **APM** | Application Performance Management                 |
+| **APN** | Access Point Name                                  |
+| **APT** | Advanced Persistent Threat                         |
+| **ARM** | Advanced RISC Machine                              |
+| **ARP** | Address Resolution Protocol                        |
+| **AS** | Autonomous System                                  |
+| **ASCII** | American Standard Code for Information Interchange |
+| **ASIC** | Application-Specific Integrated Circuit            |
+| **ASLR** | Address Space Layout Randomization                 |
+| **ASP** | Active Server Pages                                |
+| **AST** | Abstract Syntax Tree                               |
+| **ATA** | Advanced Technology Attachment                     |
+| **ATM** | Asynchronous Transfer Mode                         |
+| **AVC** | Advanced Video Coding                              |
+| **AV** | Antivirus                                          |
+| **AWS** | Amazon Web Services                                |
+| **AZ** | Availability Zone                                  |
 | **BSOD**         | Blue Screen of Death               |
 | **CD**           | Compact Disc                       |
 | **CPU**          | Central Processing Unit            |
