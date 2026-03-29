@@ -127,7 +127,195 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 | **CTO** | Chief Technology Officer                            |
 | **CV** | Computer Vision                                     |
 | **CVE** | Common Vulnerabilities and Exposures                |
-| **DVD**          | Digital Versatile Disc             |
+| **D2C** | Direct to Consumer                                  |
+| **D2D** | Device-to-Device / Disk-to-Disk                     |
+| **D2T** | Disk-to-Tape                                        |
+| **DA** | Data Administrator / Destination Address            |
+| **DAA** | Data Access Arrangement                             |
+| **DaaS** | Data as a Service                                   |
+| **DAB** | Digital Audio Broadcasting                          |
+| **DAC** | Digital-to-Analog Converter                         |
+| **DACA** | Data Administration Control Area                    |
+| **DACL** | Discretionary Access Control List                   |
+| **DAD** | Duplicate Address Detection                         |
+| **DAE** | Digital Audio Extraction                            |
+| **DAI** | Dynamic ARP Inspection                              |
+| **DAL** | Database Abstraction Layer                          |
+| **DAM** | Digital Asset Management                            |
+| **DAML** | Digital Asset Modeling Language                     |
+| **DAP** | Directory Access Protocol                           |
+| **DAR** | Data at Rest                                        |
+| **DARI** | Database Application Remote Interface               |
+| **DARPA** | Defense Advanced Research Projects Agency            |
+| **DAS** | Direct Attached Storage                             |
+| **DASD** | Direct Access Storage Device                        |
+| **DASH** | Dynamic Adaptive Streaming over HTTP                |
+| **DAT** | Digital Audio Tape                                  |
+| **DATA** | Data (Standard abbreviation in protocols)           |
+| **DAV** | Distributed Authoring and Versioning                |
+| **DAW** | Digital Audio Workstation                           |
+| **DB** | Database / Decibel                                  |
+| **DB2** | Database 2 (IBM)                                    |
+| **DBA** | Database Administrator                              |
+| **DBCS** | Double-Byte Character Set                           |
+| **DBE** | Database Engine                                     |
+| **DBMS** | Database Management System                          |
+| **DBN** | Database Name                                       |
+| **DBO** | Database Owner                                      |
+| **DBR** | DOS Boot Record                                     |
+| **DBS** | Direct Broadcast Satellite                          |
+| **DC** | Data Center / Direct Current / Domain Controller    |
+| **DCA** | Defense Communications Agency                       |
+| **DCC** | Direct Client-to-Client                             |
+| **DCCA** | Debian Common Core Alliance                         |
+| **DCE** | Data Communications Equipment                       |
+| **DCI** | Data Center Interconnect                            |
+| **DCL** | Data Control Language                               |
+| **DCM** | Digital Content Management                          |
+| **DCOM** | Distributed Component Object Model                  |
+| **DCS** | Distributed Control System                          |
+| **DCT** | Discrete Cosine Transform                           |
+| **DCU** | Data Control Unit                                   |
+| **DD** | Data Definition / Double Density                    |
+| **DDA** | Digital Differential Analyzer                       |
+| **DDB** | Distributed Database                                |
+| **DDBMS** | Distributed Database Management System              |
+| **DDC** | Display Data Channel                                |
+| **DDE** | Dynamic Data Exchange                               |
+| **DDL** | Data Definition Language                            |
+| **DDM** | Distributed Data Management                         |
+| **DDoS** | Distributed Denial of Service                       |
+| **DDP** | Datagram Delivery Protocol                          |
+| **DDR** | Double Data Rate                                    |
+| **DDR2** | Double Data Rate 2                                  |
+| **DDR3** | Double Data Rate 3                                  |
+| **DDR4** | Double Data Rate 4                                  |
+| **DDR5** | Double Data Rate 5                                  |
+| **DDS** | Digital Data Storage / Data Distribution Service    |
+| **DDX** | Digital Data Exchange                               |
+| **DE** | Desktop Environment                                 |
+| **DEC** | Digital Equipment Corporation                       |
+| **DECT** | Digital Enhanced Cordless Telecommunications        |
+| **DEK** | Data Encryption Key                                 |
+| **DEL** | Delete (Character)                                  |
+| **DEM** | Digital Elevation Model                             |
+| **DEP** | Data Execution Prevention                           |
+| **DER** | Distinguished Encoding Rules                        |
+| **DES** | Data Encryption Standard                            |
+| **DEV** | Developer / Device                                  |
+| **DevOps** | Development and Operations                          |
+| **DevSecOps**| Development, Security, and Operations               |
+| **DFD** | Data Flow Diagram                                   |
+| **DFS** | Distributed File System                             |
+| **DFT** | Discrete Fourier Transform                          |
+| **DGI** | Digital Graphics Interface                          |
+| **DH** | Diffie-Hellman (Key Exchange)                       |
+| **DHCP** | Dynamic Host Configuration Protocol                 |
+| **DHTML** | Dynamic HyperText Markup Language                   |
+| **DIA** | Dedicated Internet Access                           |
+| **DICOM** | Digital Imaging and Communications in Medicine      |
+| **DID** | Direct Inward Dialing / Decentralized Identifier    |
+| **DIF** | Data Interchange Format                             |
+| **DIFF** | Difference (Utility)                                |
+| **DIMM** | Dual In-line Memory Module                          |
+| **DIN** | Deutsches Institut für Normung (Standard)           |
+| **DIP** | Dual In-line Package                                |
+| **DIS** | Draft International Standard                        |
+| **DISA** | Defense Information Systems Agency                   |
+| **DISP** | Displacement / Display                              |
+| **DIX** | Digital, Intel, Xerox                               |
+| **DKIM** | DomainKeys Identified Mail                          |
+| **DL** | Deep Learning / Download / Dual Layer               |
+| **DLCI** | Data Link Connection Identifier                     |
+| **DLM** | Distributed Lock Manager                            |
+| **DLP** | Data Loss Prevention / Digital Light Processing     |
+| **DLR** | Dynamic Language Runtime                            |
+| **DLT** | Digital Linear Tape                                 |
+| **DM** | Data Mining / Direct Message                        |
+| **DMA** | Direct Memory Access                                |
+| **DMCA** | Digital Millennium Copyright Act                    |
+| **DMI** | Desktop Management Interface                        |
+| **DML** | Data Manipulation Language                          |
+| **DMM** | Digital Multimeter                                  |
+| **DMS** | Document Management System                          |
+| **DMT** | Discrete Multi-Tone                                 |
+| **DMV** | Dynamic Management View (SQL)                       |
+| **DMZ** | Demilitarized Zone                                  |
+| **DN** | Distinguished Name                                  |
+| **DNA** | Distributed interNet Applications                   |
+| **DNARD** | Digital Network Appliance Reference Design          |
+| **DNAT** | Destination Network Address Translation             |
+| **DNC** | Direct Numerical Control                            |
+| **DNS** | Domain Name System                                  |
+| **DNSSEC** | Domain Name System Security Extensions              |
+| **DO** | Data Object                                         |
+| **DOA** | Dead on Arrival                                     |
+| **DOCSIS** | Data Over Cable Service Interface Specification     |
+| **DOM** | Document Object Model                               |
+| **DoS** | Denial of Service                                   |
+| **DoT** | DNS over TLS                                        |
+| **DP** | DisplayPort / Data Processing                       |
+| **DPA** | Data Processing Agreement                           |
+| **DPC** | Deferred Procedure Call                             |
+| **DPI** | Deep Packet Inspection / Dots Per Inch              |
+| **DPK** | Digital Product Key                                 |
+| **DPM** | Data Protection Manager                             |
+| **DPMS** | Display Power Management Signaling                  |
+| **DPO** | Data Protection Officer                             |
+| **DPP** | Direct Print Protocol                               |
+| **DPR** | Device Pixel Ratio                                  |
+| **DPS** | Data Processing System                              |
+| **DPU** | Data Processing Unit                                |
+| **DQ** | Data Quality                                        |
+| **DR** | Disaster Recovery / Data Retention                  |
+| **DRAM** | Dynamic Random Access Memory                        |
+| **DRBD** | Distributed Replicated Block Device                 |
+| **DRC** | Design Rule Check                                   |
+| **DRDA** | Distributed Relational Database Architecture        |
+| **DRM** | Digital Rights Management                           |
+| **DRO** | Data Recovery Operation                             |
+| **DRP** | Disaster Recovery Plan                              |
+| **DRS** | Distributed Resource Scheduler                      |
+| **DS** | Directory Service / Data Structure                  |
+| **DSA** | Digital Signature Algorithm                         |
+| **DSAP** | Destination Service Access Point                    |
+| **DSD** | Direct Stream Digital                               |
+| **DSI** | Display Serial Interface                            |
+| **DSL** | Digital Subscriber Line                             |
+| **DSLAM** | Digital Subscriber Line Access Multiplexer          |
+| **DSLR** | Digital Single-Lens Reflex                          |
+| **DSM** | Distributed Shared Memory                           |
+| **DSN** | Data Source Name                                    |
+| **DSP** | Digital Signal Processor                            |
+| **DSR** | Dynamic Source Routing / Direct Server Return       |
+| **DSS** | Decision Support System                             |
+| **DST** | Daylight Saving Time / Drive Self Test              |
+| **DSU** | Data Service Unit                                   |
+| **DTA** | Digital Terminal Adapter                            |
+| **DTC** | Distributed Transaction Coordinator                 |
+| **DTE** | Data Terminal Equipment                             |
+| **DTF** | Dynamic Track Following                             |
+| **DTLS** | Datagram Transport Layer Security                   |
+| **DTM** | Deterministic Turing Machine                        |
+| **DTP** | Desktop Publishing / Dynamic Trunking Protocol      |
+| **DTR** | Data Terminal Ready / Data Transfer Rate            |
+| **DTS** | Digital Theater Systems                             |
+| **DTV** | Digital Television                                  |
+| **DU** | Disk Usage                                          |
+| **DUN** | Dial-Up Networking                                  |
+| **DVB** | Digital Video Broadcasting                          |
+| **DVD** | Digital Versatile Disc                              |
+| **DVD-R** | DVD-Recordable                                      |
+| **DVD-RW** | DVD-Rewritable                                      |
+| **DVI** | Digital Visual Interface                            |
+| **DVR** | Digital Video Recorder                              |
+| **DVS** | Distributed Virtual Switch                          |
+| **DW** | Data Warehouse                                      |
+| **DWD** | Data Warehouse Design                               |
+| **DWDM** | Dense Wavelength Division Multiplexing              |
+| **DX** | DirectX / Developer Experience                      |
+| **DXF** | Drawing Exchange Format                             |
+| **DYDNS** | Dynamic Domain Name System                          |
 | **EOD**          | Explosive Ordnance Disposal        |
 | **GPS**          | Global Positioning System          |
 | **HDMI**         | High-Definition Multimedia Interface |
