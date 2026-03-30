@@ -316,7 +316,112 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 | **DX** | DirectX / Developer Experience                      |
 | **DXF** | Drawing Exchange Format                             |
 | **DYDNS** | Dynamic Domain Name System                          |
-| **EOD**          | Explosive Ordnance Disposal        |
+| **EA** | Enterprise Architecture                             |
+| **EAI** | Enterprise Application Integration                  |
+| **EAP** | Extensible Authentication Protocol                  |
+| **EAR** | Enterprise Archive (Java)                           |
+| **EAV** | Entity-Attribute-Value (Database model)             |
+| **EB** | Exabyte                                             |
+| **EBCDIC** | Extended Binary Coded Decimal Interchange Code     |
+| **EBP** | Enterprise Business Process                         |
+| **EBS** | Elastic Block Store                                 |
+| **EC** | Electronic Commerce / Edge Computing                |
+| **EC2** | Elastic Compute Cloud                               |
+| **ECAD** | Electronic Computer-Aided Design                    |
+| **ECC** | Error Correction Code / Elliptic Curve Cryptography |
+| **ECDH** | Elliptic Curve Diffie-Hellman                       |
+| **ECDSA** | Elliptic Curve Digital Signature Algorithm          |
+| **ECG** | Electrocardiogram (Medical Tech)                    |
+| **ECL** | Emitter-Coupled Logic                               |
+| **ECM** | Enterprise Content Management                       |
+| **ECN** | Explicit Congestion Notification                    |
+| **ECO** | Engineering Change Order                            |
+| **ECS** | Elastic Container Service                           |
+| **ECU** | Electronic Control Unit                             |
+| **EDC** | Error Detection Code                                |
+| **EDI** | Electronic Data Interchange                         |
+| **EDID** | Extended Display Identification Data                |
+| **EDM** | Electronic Document Management                      |
+| **EDP** | Electronic Data Processing                          |
+| **EDR** | Endpoint Detection and Response                     |
+| **EDS** | Electronic Data Systems                             |
+| **EDT** | Eastern Daylight Time / Edit                        |
+| **EE** | Electrical Engineering                              |
+| **EEPROM** | Electrically Erasable Programmable ROM             |
+| **EER** | Enhanced Entity-Relationship                        |
+| **EFA** | Exploratory Factor Analysis                         |
+| **EFI** | Extensible Firmware Interface                       |
+| **EFL** | English as a Foreign Language (EdTech)              |
+| **EFS** | Encrypting File System                              |
+| **EGP** | Exterior Gateway Protocol                           |
+| **EIDE** | Enhanced Integrated Drive Electronics               |
+| **EIGRP** | Enhanced Interior Gateway Routing Protocol          |
+| **EISA** | Extended Industry Standard Architecture             |
+| **EJB** | Enterprise JavaBeans                                |
+| **EL** | Expression Language                                 |
+| **ELAP** | EtherTalk Link Access Protocol                      |
+| **ELC** | Edge Layer Computing                                |
+| **ELF** | Executable and Linkable Format                      |
+| **ELK** | Elasticsearch, Logstash, Kibana (Stack)             |
+| **ELM** | Element / Electronic Mail                           |
+| **EM** | Electromagnetic                                     |
+| **EMC** | Electromagnetic Compatibility                       |
+| **EMF** | Electromotive Force / Eclipse Modeling Framework    |
+| **EMI** | Electromagnetic Interference                        |
+| **EMM** | Enterprise Mobility Management                      |
+| **EMP** | Electromagnetic Pulse                               |
+| **EMS** | Enterprise Management System / Expanded Memory Spec |
+| **EMV** | Europay, Mastercard, and Visa (Standard)            |
+| **EN** | Ethernet / Enable                                   |
+| **ENC** | Encode                                              |
+| **END** | End of Data / End of Transmission                   |
+| **EOB** | End of Block                                        |
+| **EOF** | End of File                                         |
+| **EOL** | End of Life / End of Line                           |
+| **EOM** | End of Message                                      |
+| **EOP** | End of Page / End of Packet                         |
+| **EOS** | End of Support / End of Stream                      |
+| **EOT** | End of Transmission                                 |
+| **EP** | Endpoint                                            |
+| **EPA** | Environmental Protection Agency (Energy Star)       |
+| **EPC** | Electronic Product Code                             |
+| **EPI** | Endpoint Protection Infrastructure                  |
+| **EPIC** | Explicitly Parallel Instruction Computing           |
+| **EPL** | Electronic Programming Language                     |
+| **EPP** | Enhanced Parallel Port / Extensible Provisioning    |
+| **EPROM** | Erasable Programmable Read-Only Memory             |
+| **EPS** | Encapsulated PostScript                             |
+| **ERP** | Enterprise Resource Planning                        |
+| **ERR** | Error                                               |
+| **ES** | Expert System / Enterprise Service                  |
+| **ESA** | European Space Agency (Space Tech)                  |
+| **ESB** | Enterprise Service Bus                              |
+| **ESC** | Escape (Key)                                        |
+| **ESD** | Electrostatic Discharge                             |
+| **ESE** | Extensible Storage Engine                           |
+| **ESM** | Enterprise Security Management                     |
+| **ESN** | Electronic Serial Number                            |
+| **ESP** | Encapsulating Security Payload / Extensible Service |
+| **ESR** | Equivalent Series Resistance                        |
+| **ESS** | Extended Service Set                                |
+| **EST** | Eastern Standard Time                               |
+| **ETL** | Extract, Transform, Load                            |
+| **ETM** | Enterprise Transaction Management                   |
+| **ETR** | Expected Throughput Rate                            |
+| **ETS** | Ethernet Switch                                     |
+| **ETX** | End of Text                                         |
+| **EU** | End User                                            |
+| **EUI** | Extended Unique Identifier                          |
+| **EULA** | End-User License Agreement                          |
+| **EVM** | Earned Value Management / Ethereum Virtual Machine  |
+| **EVPN** | Ethernet Virtual Private Network                    |
+| **EVP** | Executive Vice President                            |
+| **EW** | Electronic Warfare                                  |
+| **EWS** | Early Warning System / Exchange Web Services        |
+| **EX** | Execute                                             |
+| **EXC** | Exception                                           |
+| **EXE** | Executable (File extension)                         |
+| **EXT** | Extended / Extension                                |
 | **GPS**          | Global Positioning System          |
 | **HDMI**         | High-Definition Multimedia Interface |
 | **HTML**         | HyperText Markup Language          |
