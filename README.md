@@ -422,7 +422,177 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 | **EXC** | Exception                                           |
 | **EXE** | Executable (File extension)                         |
 | **EXT** | Extended / Extension                                |
-| **GPS**          | Global Positioning System          |
+La lettera F è una colonna portante: dai file system alle frequenze di rete, passando per i framework di sviluppo e la sicurezza. Ecco una lista corposa e ben strutturata pronta per la tua repository:
+
+Markdown
+| Abbreviation | Full Form                                           |
+|--------------|-----------------------------------------------------|
+| **FAAS** | Function as a Service                               |
+| **FAT** | File Allocation Table                               |
+| **FB** | Facebook / Frame Buffer                             |
+| **FBC** | Frame Buffer Compression                            |
+| **FBO** | Frame Buffer Object                                 |
+| **FC** | Fibre Channel                                       |
+| **FCC** | Federal Communications Commission                   |
+| **FCS** | Frame Check Sequence                                |
+| **FDD** | Floppy Disk Drive / Frequency Division Duplexing    |
+| **FDDI** | Fiber Distributed Data Interface                    |
+| **FDE** | Full Disk Encryption                                |
+| **FDI** | Foreign Direct Investment (in Tech sector)          |
+| **FDM** | Frequency Division Multiplexing                     |
+| **FDMA** | Frequency Division Multiple Access                  |
+| **FE** | Fast Ethernet / Front-End                           |
+| **FEC** | Forward Error Correction                            |
+| **FED** | Field Emission Display                              |
+| **FEM** | Finite Element Method                               |
+| **FET** | Field-Effect Transistor                             |
+| **FF** | Flip-Flop                                           |
+| **FFMPEG** | Fast Forward Moving Picture Experts Group           |
+| **FFT** | Fast Fourier Transform                              |
+| **FHSS** | Frequency-Hopping Spread Spectrum                   |
+| **FI** | Fault Injection                                     |
+| **FIFO** | First-In, First-Out                                 |
+| **FILO** | First-In, Last-Out                                  |
+| **FIN** | Finish (TCP Flag)                                   |
+| **FIPS** | Federal Information Processing Standards            |
+| **FIR** | Fast Infrared / Finite Impulse Response             |
+| **FIS** | Financial Information System                        |
+| **FL** | Flash / Flow Language                               |
+| **FLAC** | Free Lossless Audio Codec                           |
+| **FLA** | Flash Memory                                        |
+| **FLOPS** | Floating-point Operations Per Second               |
+| **FLOW** | Flowchart                                           |
+| **FLP** | Floppy Disk                                         |
+| **FM** | Frequency Modulation                                |
+| **FMEA** | Failure Mode and Effects Analysis                   |
+| **FMS** | File Management System                              |
+| **FNC** | Function                                            |
+| **FOD** | Feature on Demand                                   |
+| **FOIA** | Freedom of Information Act (Data Privacy)           |
+| **FOMO** | Fear of Missing Out (Social Tech psychology)        |
+| **FONT** | Font (Typography)                                   |
+| **FOR** | Formula / Loop (Programming)                        |
+| **FORTRAN** | Formula Translation                                 |
+| **FOS** | File Operating System                               |
+| **FOSS** | Free and Open Source Software                       |
+| **FOT** | Fiber Optic Technology                              |
+| **FP** | Floating Point / Function Point                     |
+| **FPGA** | Field-Programmable Gate Array                       |
+| **FPI** | Frames Per Inch                                     |
+| **FPL** | Field-Programmable Logic                            |
+| **FPM** | Fast Page Mode                                      |
+| **FPU** | Floating-Point Unit                                 |
+| **FQDN** | Fully Qualified Domain Name                         |
+| **FR** | Frame Rate / Frame Relay                            |
+| **FRAM** | Ferroelectric RAM                                   |
+| **FRD** | Functional Requirements Document                    |
+| **FS** | File System                                         |
+| **FSB** | Front Side Bus                                      |
+| **FSCK** | File System Check                                   |
+| **FSD** | File System Driver                                  |
+| **FSM** | Finite State Machine                                |
+| **FSN** | Full Service Network                                |
+| **FSO** | Free-Space Optics                                   |
+| **FSP** | File Service Protocol                               |
+| **FST** | File System Type                                    |
+| **FT** | Fault Tolerance                                     |
+| **FTAM** | File Transfer, Access, and Management               |
+| **FTC** | Federal Trade Commission                            |
+| **FTL** | Flash Translation Layer                             |
+| **FTN** | FidoNet Technology Network                          |
+| **FTP** | File Transfer Protocol                              |
+| **FTPS** | FTP over SSL                                        |
+| **FTR** | Fault-Tolerant Redundancy                           |
+| **FTS** | File Transfer Service                               |
+| **FTTB** | Fiber to the Building                               |
+| **FTTC** | Fiber to the Cabinet                                |
+| **FTTH** | Fiber to the Home                                   |
+| **FTTN** | Fiber to the Node                                   |
+| **FTTP** | Fiber to the Premises                               |
+| **FULL** | Full Duplex                                         |
+| **FW** | Firmware / Firewall                                 |
+| **FWIW** | For What It's Worth (Net slang)                     |
+| **FWS** | Firewall System                                     |
+| **FX** | Effects / Foreign Exchange                          |
+| **FXP** | File eXchange Protocol                              |
+La lettera G è fondamentale nel mondo tech moderno, spaziando dai protocolli di rete mobile (GPRS, 4G, 5G) alla grafica computerizzata (GPU, GUI) fino ai linguaggi di programmazione moderni (Go).
+
+Ecco una lista dettagliata in formato codice per la tua repository:
+
+Markdown
+| Abbreviation | Full Form                                           |
+|--------------|-----------------------------------------------------|
+| **GA** | Genetic Algorithm                                   |
+| **GAAP** | Generally Accepted Accounting Principles            |
+| **GAC** | Global Assembly Cache                             |
+| **GAN** | Generative Adversarial Network                      |
+| **GAP** | Global Address List / Gateway Access Protocol       |
+| **GAS** | Google Apps Script                                  |
+| **Gb** | Gigabit                                             |
+| **GB** | Gigabyte                                            |
+| **GBA** | Game Boy Advance                                    |
+| **GBIC** | Gigabit Interface Converter                       |
+| **GBP** | Gigabit Backplane                                   |
+| **GCC** | GNU Compiler Collection                             |
+| **GCF** | Greatest Common Factor                              |
+| **GCI** | Google Code-in                                      |
+| **GCM** | Galois/Counter Mode (Encryption)                    |
+| **GCR** | Group Code Recording                                |
+| **GDI** | Graphics Device Interface                           |
+| **GDPR** | General Data Protection Regulation                  |
+| **GDS** | Global Directory Service                            |
+| **GDSS** | Group Decision Support System                       |
+| **GE** | Gigabit Ethernet                                    |
+| **GEMS** | Global Enterprise Management System                 |
+| **GEO** | Geostationary Earth Orbit                           |
+| **GFS** | Google File System                                  |
+| **GHz** | Gigahertz                                           |
+| **GIGO** | Garbage In, Garbage Out                             |
+| **GIMP** | GNU Image Manipulation Program                      |
+| **GIS** | Geographic Information System                       |
+| **GITS** | Global Information Technology Services              |
+| **GL** | Graphics Library (OpenGL)                           |
+| **GLC** | Gateway Location Register                           |
+| **GLES** | OpenGL for Embedded Systems                         |
+| **GLI** | Graphical Language Interface                        |
+| **GLO** | Global                                              |
+| **GLP** | General Public License (GPL)                        |
+| **GML** | Geography Markup Language                           |
+| **GMT** | Greenwich Mean Time                                 |
+| **GNOME** | GNU Network Object Model Environment                |
+| **GNU** | GNU's Not Unix                                      |
+| **GOP** | Group of Pictures (Video compression)               |
+| **GOTO** | Go To (Programming command)                         |
+| **GP** | General Purpose                                     |
+| **GPA** | General Packet Assembly                             |
+| **GPF** | General Protection Fault                            |
+| **GPS** | Global Positioning System                           |
+| **GPIB** | General Purpose Interface Bus                       |
+| **GPL** | General Public License                              |
+| **GPM** | General Purpose Machine                             |
+| **GPO** | Group Policy Object                                 |
+| **GPRS** | General Packet Radio Service                        |
+| **GPS** | Global Positioning System                           |
+| **GPU** | Graphics Processing Unit                            |
+| **GR** | General Register                                    |
+| **GRUB** | GRand Unified Bootloader                            |
+| **GS** | Ghostscript / Global System                         |
+| **GSA** | Google Search Appliance                             |
+| **GSI** | Global System Integration                           |
+| **GSM** | Global System for Mobile Communications             |
+| **GSO** | Geosynchronous Orbit                                |
+| **GSP** | Graphics System Processor                           |
+| **GSS** | Generic Security Services                           |
+| **GT** | Gigabit Transfer                                    |
+| **GTO** | Gate Turn-Off (Thyristor)                           |
+| **GTP** | GPRS Tunnelling Protocol                            |
+| **GTR** | Gateway Transmission Rate                           |
+| **GTS** | Guaranteed Time Slot                                |
+| **GUI** | Graphical User Interface                            |
+| **GUID** | Globally Unique Identifier                          |
+| **GUL** | Graphical User Language                             |
+| **GVM** | Global Virtual Machine                              |
+| **GWS** | Gateway Service                                     |
 | **HDMI**         | High-Definition Multimedia Interface |
 | **HTML**         | HyperText Markup Language          |
 | **IP**           | Internet Protocol                  |
