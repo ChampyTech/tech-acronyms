@@ -1856,13 +1856,197 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 | **TWC** | Traveling Wave Tube                                 |
 | **TXL** | Transformation Language                             |
 | **TYP** | Typical                                             |
-| **USB**          | Universal Serial Bus               |
-| **VGA**          | Video Graphics Array               |
-| **VPN**          | Virtual Private Network            |
-| **Wi-Fi**        | Wireless Fidelity                  |
-| **WLAN**         | Wireless Local Area Network        |
-| **WPS**          | Wi-Fi Protected Setup              |
-| **ZTP**          | Zero Touch Provisioning            |
+| **UA** | User Agent                                          |
+| **UAC** | User Account Control                                |
+| **UART** | Universal Asynchronous Receiver-Transmitter         |
+| **UAV** | Unmanned Aerial Vehicle                             |
+| **UBA** | User Behavior Analytics                             |
+| **UCC** | Unified Communications and Collaboration            |
+| **UCL** | Upper Control Limit                                 |
+| **UCP** | Universal Computer Protocol                         |
+| **UDP** | User Datagram Protocol                              |
+| **UE** | User Equipment                                      |
+| **UEFI** | Unified Extensible Firmware Interface               |
+| **UEM** | Unified Endpoint Management                         |
+| **UFA** | Universal File Access                               |
+| **UHF** | Ultra High Frequency                                |
+| **UI** | User Interface                                      |
+| **UID** | User Identifier                                     |
+| **UL** | Upload / Underwriters Laboratories                  |
+| **ULA** | Uncommitted Logic Array                             |
+| **ULC** | Ultra-Low Cost                                      |
+| **UML** | Unified Modeling Language                           |
+| **UMP** | Universal Message Protocol                          |
+| **UMTS** | Universal Mobile Telecommunications System          |
+| **UNC** | Universal Naming Convention                         |
+| **UNIX** | Uniplexed Information and Computing Service         |
+| **UP** | Universal Processor                                 |
+| **UPC** | Universal Product Code                              |
+| **UPS** | Uninterruptible Power Supply                        |
+| **URI** | Uniform Resource Identifier                         |
+| **URL** | Uniform Resource Locator                            |
+| **URN** | Uniform Resource Name                               |
+| **USB** | Universal Serial Bus                                |
+| **USC** | Universal Serial Controller                         |
+| **USD** | Universal Serial Data                               |
+| **USIM** | Universal Subscriber Identity Module               |
+| **USM** | User-based Security Model                           |
+| **USPS** | Universal Server Power Supply                       |
+| **UTC** | Coordinated Universal Time                          |
+| **UTF** | Unicode Transformation Format                       |
+| **UTM** | Unified Threat Management                           |
+| **UTP** | Unshielded Twisted Pair                             |
+| **UVM** | Universal Verification Methodology                  |
+| **UX** | User Experience                                     |
+| **VA** | Virtual Address                                     |
+| **VAC** | Volts Alternating Current                           |
+| **VAN** | Value-Added Network                                 |
+| **VAR** | Value-Added Reseller                                |
+| **VBS** | Visual Basic Script                                 |
+| **VC** | Virtual Circuit / Venture Capital                   |
+| **VCA** | Voltage Controlled Amplifier                        |
+| **VCC** | Voltage Common Collector                            |
+| **VCD** | Video Compact Disc                                  |
+| **VCI** | Virtual Channel Identifier                          |
+| **VCL** | Visual Component Library                            |
+| **VCR** | Video Cassette Recorder                             |
+| **VDI** | Virtual Desktop Infrastructure                      |
+| **VDSL** | Very-high-bitrate Digital Subscriber Line          |
+| **VEE** | Virtual Enterprise Environment                      |
+| **VGA** | Video Graphics Array                                |
+| **VHDL** | VHSIC Hardware Description Language                |
+| **VHSIC** | Very High Speed Integrated Circuit                 |
+| **VI** | Visual Interface (Text editor)                      |
+| **VID** | Vendor ID / Virtual LAN ID                          |
+| **VLAN** | Virtual Local Area Network                         |
+| **VLIW** | Very Long Instruction Word                         |
+| **VLSI** | Very-Large-Scale Integration                       |
+| **VM** | Virtual Machine                                     |
+| **VMA** | Virtual Memory Address                              |
+| **VMC** | Virtual Machine Controller                          |
+| **VMM** | Virtual Machine Monitor                             |
+| **VMS** | Virtual Memory System                               |
+| **VMware**| Virtual Machine Software                          |
+| **VN** | Virtual Network                                     |
+| **VNC** | Virtual Network Computing                           |
+| **VOD** | Video On Demand                                     |
+| **VOIP** | Voice Over IP                                       |
+| **VPN** | Virtual Private Network                             |
+| **VRAM** | Video Random Access Memory                          |
+| **VRS** | Video Relay Service                                 |
+| **VS** | Virtual Server / Versus                             |
+| **VSA** | Virtual Server Agent                                |
+| **VSAM** | Virtual Storage Access Method                      |
+| **VSC** | Virtual Smart Card                                  |
+| **VSD** | Virtual Storage Device                              |
+| **VSI** | Virtual System Interface                            |
+| **VSL** | Virtual Storage Library                             |
+| **VSM** | Virtual Storage Manager                             |
+| **VSS** | Volume Shadow Copy Service                          |
+| **VST** | Virtual Studio Technology                           |
+| **VSWR** | Voltage Standing Wave Ratio                        |
+| **VT** | Virtual Terminal                                    |
+| **VTL** | Virtual Tape Library                                |
+| **VTT** | Video Text Tracks                                   |
+| **VU** | Volume Unit                                         |
+| **W3C** | World Wide Web Consortium                           |
+| **WAIS** | Wide Area Information Server                       |
+| **WAL** | Write-Ahead Logging                                 |
+| **WAN** | Wide Area Network                                   |
+| **WAP** | Wireless Application Protocol                       |
+| **WAR** | Web Application Archive (Java)                      |
+| **WAV** | Waveform Audio File                                 |
+| **WBEM** | Web-Based Enterprise Management                    |
+| **WBS** | Work Breakdown Structure                            |
+| **WC** | Word Count                                          |
+| **WCF** | Windows Communication Foundation                    |
+| **WDM** | Wavelength Division Multiplexing                    |
+| **WDP** | Wireless Datagram Protocol                          |
+| **WDT** | Watchdog Timer                                      |
+| **WEB** | World Wide Web                                      |
+| **WEP** | Wired Equivalent Privacy                            |
+| **WF** | Workflow                                            |
+| **WFC** | Windows Foundation Classes                          |
+| **WFS** | Web Feature Service                                 |
+| **WIC** | Web Interface Controller                            |
+| **WIMP** | Windows, Icons, Menus, Pointer                     |
+| **WIN** | Windows                                             |
+| **WINS** | Windows Internet Name Service                      |
+| **WIP** | Work In Progress                                    |
+| **WISP** | Wireless Internet Service Provider                  |
+| **WLAN** | Wireless Local Area Network                        |
+| **WLM** | Workload Manager                                    |
+| **WMA** | Windows Media Audio                                 |
+| **WMI** | Windows Management Instrumentation                  |
+| **WML** | Wireless Markup Language                            |
+| **WMV** | Windows Media Video                                 |
+| **WORM** | Write Once, Read Many                               |
+| **WPA** | Wi-Fi Protected Access                              |
+| **WPA2** | Wi-Fi Protected Access 2                           |
+| **WPAN** | Wireless Personal Area Network                     |
+| **WPF** | Windows Presentation Foundation                    |
+| **WPS** | Wi-Fi Protected Setup                              |
+| **WS** | Web Service / Workstation                           |
+| **WSDL** | Web Services Description Language                  |
+| **WSH** | Windows Script Host                                 |
+| **WSN** | Wireless Sensor Network                             |
+| **WSS** | Windows SharePoint Services                        |
+| **WSUS** | Windows Server Update Services                     |
+| **WTLS** | Wireless Transport Layer Security                  |
+| **WTP** | Wireless Transaction Protocol                      |
+| **WWW** | World Wide Web                                      |
+| **WYSIWYG** | What You See Is What You Get                    |
+| **X.25** | Packet-switched data network protocol               |
+| **X.400** | Message Handling System standard                    |
+| **X.500** | Directory service protocol                          |
+| **X.509** | Digital certificate standard (PKI)                  |
+| **XA** | Extended Architecture                               |
+| **XAML** | Extensible Application Markup Language              |
+| **XAP** | Exchange Application                                |
+| **XBC** | X-Bus Controller                                    |
+| **XDR** | External Data Representation                        |
+| **XGA** | Extended Graphics Array                             |
+| **XHTML** | Extensible HyperText Markup Language               |
+| **XID** | Exchange Identifier                                 |
+| **XLL** | XML Linking Language                                |
+| **XML** | Extensible Markup Language                          |
+| **XMM** | Extended Memory Manager                             |
+| **XMS** | Extended Memory Specification                       |
+| **XNS** | Xerox Network Systems                               |
+| **XOR** | Exclusive OR (Logic gate)                           |
+| **XPA** | X-Protocol Architecture                             |
+| **XPI** | Cross-Platform Component (Firefox/Mozilla)          |
+| **XPS** | XML Paper Specification                             |
+| **XSD** | XML Schema Definition                               |
+| **XSL** | Extensible Stylesheet Language                      |
+| **XT** | Extended Technology (IBM PC/XT)                     |
+| **XTS** | XEX-based tweaked-codebook mode with ciphertext stealing (Encryption) |
+| **XV** | X-Video                                             |
+| **Y2K** | Year 2000 (Bug)                                     |
+| **YAC** | Yet Another Compiler                                |
+| **YAML** | YAML Ain't Markup Language                          |
+| **YAS** | Yet Another System                                  |
+| **YAW** | Yet Another Workstation                             |
+| **YCC** | YCbCr color model                                   |
+| **YDI** | Your Digital Identity                               |
+| **YIQ** | YIQ color space (TV broadcast)                      |
+| **YPR** | Y-Pb-Pr (Analog component video)                    |
+| **YUV** | YUV color space                                     |
+| **Z** | Zettabyte (10^21 bytes)                             |
+| **Z80** | Zilog Z80 (8-bit microprocessor)                    |
+| **ZB** | Zettabyte                                           |
+| **ZCAV** | Zone Constant Angular Velocity                      |
+| **ZCL** | Zone Constant Linear Velocity                       |
+| **ZDFS** | Zero-Day File System                                |
+| **ZIF** | Zero Insertion Force (Socket)                       |
+| **ZIP** | Zone Information Protocol / Archive format          |
+| **ZISC** | Zero Instruction Set Computer                       |
+| **ZM** | Zero Memory                                         |
+| **ZOD** | Zero-copy Object Data                               |
+| **ZPL** | Zircon Programming Language / Zebra Programming Language |
+| **ZRL** | Zero-Run Length                                     |
+| **ZSH** | Z Shell                                             |
+| **ZTNA** | Zero Trust Network Access                           |
 
 ## 🙏 Contributing
 
