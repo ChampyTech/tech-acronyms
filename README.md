@@ -422,11 +422,6 @@ A comprehensive list of many acronyms concerning the world of technology. This p
 | **EXC** | Exception                                           |
 | **EXE** | Executable (File extension)                         |
 | **EXT** | Extended / Extension                                |
-La lettera F è una colonna portante: dai file system alle frequenze di rete, passando per i framework di sviluppo e la sicurezza. Ecco una lista corposa e ben strutturata pronta per la tua repository:
-
-Markdown
-| Abbreviation | Full Form                                           |
-|--------------|-----------------------------------------------------|
 | **FAAS** | Function as a Service                               |
 | **FAT** | File Allocation Table                               |
 | **FB** | Facebook / Frame Buffer                             |
@@ -515,13 +510,6 @@ Markdown
 | **FWS** | Firewall System                                     |
 | **FX** | Effects / Foreign Exchange                          |
 | **FXP** | File eXchange Protocol                              |
-La lettera G è fondamentale nel mondo tech moderno, spaziando dai protocolli di rete mobile (GPRS, 4G, 5G) alla grafica computerizzata (GPU, GUI) fino ai linguaggi di programmazione moderni (Go).
-
-Ecco una lista dettagliata in formato codice per la tua repository:
-
-Markdown
-| Abbreviation | Full Form                                           |
-|--------------|-----------------------------------------------------|
 | **GA** | Genetic Algorithm                                   |
 | **GAAP** | Generally Accepted Accounting Principles            |
 | **GAC** | Global Assembly Cache                             |
@@ -593,8 +581,57 @@ Markdown
 | **GUL** | Graphical User Language                             |
 | **GVM** | Global Virtual Machine                              |
 | **GWS** | Gateway Service                                     |
-| **HDMI**         | High-Definition Multimedia Interface |
-| **HTML**         | HyperText Markup Language          |
+| **HA** | High Availability                                   |
+| **HAC** | High Availability Cluster                           |
+| **HAL** | Hardware Abstraction Layer                          |
+| **HBA** | Host Bus Adapter                                    |
+| **HCI** | Human-Computer Interaction / Hyper-Converged Infrastructure |
+| **HCP** | Host Configuration Protocol                         |
+| **HDD** | Hard Disk Drive                                     |
+| **HDL** | Hardware Description Language                       |
+| **HDLC** | High-Level Data Link Control                        |
+| **HDMI** | High-Definition Multimedia Interface                |
+| **HDR** | High Dynamic Range                                  |
+| **HDTV** | High-Definition Television                          |
+| **HEVC** | High Efficiency Video Coding                        |
+| **HF** | High Frequency                                      |
+| **HFC** | Hybrid Fiber-Coaxial                                |
+| **HFT** | High-Frequency Trading                              |
+| **HHD** | Hybrid Hard Drive                                   |
+| **HID** | Human Interface Device                              |
+| **HIDS** | Host-based Intrusion Detection System               |
+| **HIPS** | Host-based Intrusion Prevention System              |
+| **HLR** | Home Location Register                              |
+| **HLS** | HTTP Live Streaming                                 |
+| **HMA** | High Memory Area                                    |
+| **HMD** | Head-Mounted Display                                |
+| **HMAC** | Hash-based Message Authentication Code              |
+| **HMI** | Human-Machine Interface                             |
+| **HMP** | Host Messaging Protocol                             |
+| **HPC** | High-Performance Computing                          |
+| **HPI** | Host Printer Interface                              |
+| **HPP** | Hewlett-Packard Printer (Control Language)          |
+| **HPS** | High Performance Switch                             |
+| **HQ** | Headquarters (often used for data centers)          |
+| **HRD** | Hard Disk                                           |
+| **HRM** | Human Resource Management (Tech platforms)          |
+| **HSDPA** | High-Speed Downlink Packet Access                 |
+| **HSI** | High-Speed Interconnect                             |
+| **HSM** | Hardware Security Module                            |
+| **HSPA** | High-Speed Packet Access                            |
+| **HSR** | High-availability Seamless Redundancy               |
+| **HST** | High-Speed Technology / Host                        |
+| **HT** | Hyper-Threading / HyperText                         |
+| **HTCPCP** | Hyper Text Coffee Pot Control Protocol            |
+| **HTML** | HyperText Markup Language                           |
+| **HTPC** | Home Theater Personal Computer                      |
+| **HTTP** | HyperText Transfer Protocol                         |
+| **HTTPS** | HyperText Transfer Protocol Secure                 |
+| **HTX** | HyperTransport eXpansion                            |
+| **HUD** | Heads-Up Display                                    |
+| **HW** | Hardware                                            |
+| **HWID** | Hardware Identifier                                 |
+| **HYB** | Hybrid                                              |
 | **IP**           | Internet Protocol                  |
 | **IoT**          | Internet of Things                 |
 | **ISP**          | Internet Service Provider          |
